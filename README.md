@@ -1,1 +1,1 @@
-This is where I practice python.
+Run this program to genarate a random pokemon team.
